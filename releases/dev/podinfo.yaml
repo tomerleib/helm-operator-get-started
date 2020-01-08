@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: tomerleib/podinfo:dev-hdtwcel9
+    image: tomerleib/podinfo:dev-qbbevi0n
     replicaCount: 1
     hpa:
       enabled: false

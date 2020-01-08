@@ -2,7 +2,7 @@
 
 replicaCount: 1
 
-image: tomerleib/podinfo:3.1.5
+image: tomerleib/podinfo:1.0.0
 imagePullPolicy: IfNotPresent
 
 service:
